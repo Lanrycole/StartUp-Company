@@ -1,10 +1,5 @@
 package company;
-/*
- * Course Name: Computer Programming 
- * Student Name: Lanre Oreyomi 
- *Student Number: 040929184
- * */
- 
+
 
 import java.io.EOFException;
 
