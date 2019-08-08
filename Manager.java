@@ -1,14 +1,5 @@
 package company;
-/*
- 
- * Student Name: Lanre Oreyomi 
- *Student Number: 040929184
- * */
 
-/**
- * Manager  Class 
- * Parent class : Employee
- */
 
 import java.util.Scanner;
 

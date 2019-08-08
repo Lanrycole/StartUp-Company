@@ -1,14 +1,5 @@
 package company;
-/*
- * Course Name: Computer Programming 
- * Student Name: Lanre Oreyomi 
- *Student Number: 040929184
- * */
 
-/**
- * Staff  Class 
- * Parent class : Employee
- */
 
 
 import java.util.Scanner;
